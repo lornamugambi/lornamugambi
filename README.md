@@ -1,11 +1,6 @@
 ## Hi there 👋 I'm Lorna Mugambi
 <h2 align="center">A researcher in the healthcare and conservation fields. I am currently pursuing my MSc. in Telecommunication Engineering. I have a BSc. in Electrical and Electronic Engineering.</h2>
 
- 📫 Reach me through **lornamugambik@gmail.com**
-
-<h3 align="left">Connect with me:
-<a href="https://linkedin.com/in/lorna-mugambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lornamugambi" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/lmugambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kipngetichv" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
