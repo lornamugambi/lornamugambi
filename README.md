@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm Lorna Mugambi
-<h2 align="center">A researcher in the intersection of AI + healthcare & environmental conservation. I am currently pursuing my MSc. in Telecommunication Engineering. I have a BSc. in Electrical and Electronic Engineering.</h2>
+<h2 align="center">A researcher in the intersection of AI + healthcare & environmental conservation. I am currently pursuing a PhD in Electrical and Electronic Engineering. I hold a masters degree in Telecommunication Engineering and a bachelor's degree in Electrical and Electronic Engineering.</h2>
 
-🔭 I’m currently working on self-supervised learning 
+🔭 I’m currently working on vision language models for rheumatic heart disease diagnosis. 
 
-🌱 I’m currently learning anything to do with LLMs and in particular vision language models
 
-👯 I’m looking to collaborate on healthcare diagnostics, epidemiology, camera traps
+👯 I’m looking to collaborate on healthcare diagnostics, epidemiology, and camera traps.
 
 
 ## 🌐 Socials:
